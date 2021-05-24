@@ -12,6 +12,6 @@
 
 <body>
 <h1>Hi</h1>
-<?php echo "hi there";?>
+<?php include_once("inc/menu.php");?>
 </body>
 </html>
